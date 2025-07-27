@@ -6,6 +6,10 @@ A simple desktop application built with Python and Flet to generate AI voice fro
 
 ![Application Screenshot](assets/Screenshot.png)
 
+## Demo Video
+
+![Watch the demo](assets/demo.mp4)
+
 ## Features
 
 - Multi-line text input for text-to-speech conversion  
